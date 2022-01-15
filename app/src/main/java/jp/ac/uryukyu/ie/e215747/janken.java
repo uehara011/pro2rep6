@@ -1,7 +1,7 @@
 package jp.ac.uryukyu.ie.e215747;
 
 public class janken {
-    public void janken(){
+    public void Janken(){
         String playerhand;
         String enemyhand;
         String judgeResult;
@@ -9,7 +9,7 @@ public class janken {
         player play = new player();
         hand ha = new hand();
         Enemy enemy  = new Enemy();
-        judge judge = new judge();
+        Judge judge = new Judge();
     
         ha.ruleExplanation();
         while(true){

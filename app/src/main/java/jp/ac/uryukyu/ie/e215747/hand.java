@@ -6,7 +6,7 @@ public class hand {
     }
 
     
-    public void enemyOutPut(String enemyhand){
+    public void enemyH(String enemyhand){
         System.out.println("相手は「" + enemyhand + "。");
     }
 
