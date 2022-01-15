@@ -1,4 +1,8 @@
 package jp.ac.uryukyu.ie.e215747;
+/*
+勝ち負けの判定をするクラス
+
+*/
 
 public class Judge{
     String str;

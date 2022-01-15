@@ -1,6 +1,10 @@
 package jp.ac.uryukyu.ie.e215747;
 
 public class hand {
+    /*
+    自分と相手の手を出力するのとルールを説明するもの
+
+    */
     public void playerhand(String playerhand){
         System.out.println("あなたの手は「" + playerhand + "。");
     }

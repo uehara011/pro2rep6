@@ -1,4 +1,8 @@
 package jp.ac.uryukyu.ie.e215747;
+/*
+ジャンケンの大元の流れのクラス
+
+*/
 
 public class janken {
     public void Janken(){
