@@ -2,7 +2,7 @@ package jp.ac.uryukyu.ie.e215747;
 
 public class hand {
     public void playerhand(String playerhand){
-        System.out.println("あなたの手は「" + playerhand + "」です。");
+        System.out.println("あなたの手は「" + playerhand + "。");
     }
 
     
